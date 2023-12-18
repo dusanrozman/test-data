@@ -1,0 +1,8 @@
+{
+  "hostname": "some-device",
+  "ip-address": "1.2.3.4",
+  "ip-pools": {
+    "remaining": "100"
+  }
+
+}
