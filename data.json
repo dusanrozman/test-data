@@ -2,7 +2,7 @@
   "hostname": "some-device",
   "ip-address": "1.2.3.4",
   "pools": {
-    "remaining": 1
+    "remaining": 2
   }
 
 }
